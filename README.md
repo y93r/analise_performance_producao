@@ -1,4 +1,4 @@
-# Análise de Performance de Produção Pós Retrofit
+# Análise de Performance de Produção Pós Retrofit ⚙📈🐍
 
 **Objetivo:** Avaliar a estabilidade e desempenho de uma máquina injetora após o retrofit, utilizando indicadores estatísticos e de produtividade.
 
