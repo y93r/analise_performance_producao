@@ -12,7 +12,7 @@
   - Analisar média e mediana do tempo de ciclo em relação ao tempo esperado;
   - Calcular a produtividade real (pçs/h) e comparar com a produtividade esperada;
   - Avaliar a variação de produtividade (%).
-  - Verificar conformidade dos ciclos em relação à meta (dias acima do esperado).
+  - Verificar conformidade dos ciclos em relação à meta (dias fora do esperado).
  
 - Variabilidade do Processo
   - Calcular o coeficiente de variação e classificar;
@@ -27,7 +27,7 @@ Após o retrofit da injetora, os dados coletados ao longo de 30 dias indicam que
 
 - O tempo médio de ciclo ficou em **33,8 s**, **3,8 s** acima da meta de 30 segundos.
 - Isso representa uma perda de produtividade de aproximadamente **11,2%**, com produção média de **107** peças/hora, contra as 120 esperadas peças/hora.
-- Dos 30 dias analisados, **22 dias (73%)** performaram acima do estabelecido, indicando recorrência do desvio.
+- Dos 30 dias analisados, **22 dias (73%)** performaram fora do estabelecido, indicando recorrência do desvio.
 - O coeficiente de variação indica um processo com **alta variabilidade (instável)**.
 - Não foram identificadas anomalias relevantes (pontos fora de controle), sugerindo ausência de causas especiais.
 - No gráfico de controle, é observado variações consistentes ao longo do período, reforçando que o processo apresenta **variabilidade contínua**, e não desvios pontuais.
